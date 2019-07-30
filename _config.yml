@@ -1,9 +1,9 @@
- excerpt_separator: <!--more-->
+excerpt_separator: <!--more-->
 
- sass:
+sass:
   sass_dir: assets/_sass
 
- defaults:
+defaults:
   -
     scope:
       path: ""
