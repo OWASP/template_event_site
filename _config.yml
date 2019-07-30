@@ -1,5 +1,2 @@
 plugins:
  - jekyll-include-cache-0.2.0
-
-sass:
-  sass_dir: assets/_sass
