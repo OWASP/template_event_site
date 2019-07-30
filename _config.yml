@@ -1,22 +1,5 @@
 plugins:
  - jekyll-include-cache-0.2.0
 
-excerpt_separator: <!--more-->
-
 sass:
   sass_dir: assets/_sass
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post" 
-
