@@ -1,3 +1,6 @@
+plugins:
+ - jekyll-include-cache-0.2.0
+
 excerpt_separator: <!--more-->
 
 sass:
@@ -16,3 +19,4 @@ defaults:
       type: "posts"
     values:
       layout: "post" 
+
