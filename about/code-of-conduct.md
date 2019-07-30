@@ -29,7 +29,7 @@ We expect participants to follow these rules at conference and workshop venues a
 
 ## Family Friendly
 
-Please note that Global AppSec DC 2019 is a family friendly conference.  
+Please note that this is a family friendly conference.  
 If you need to bring your baby with you in order to attend, please do so! We only request that you be sensitive to others close to you, if your child needs to make noise please take them to the side of the room, or outside if they are subtantially disturbing others.  
 Even if you are not bringing a child, please be considerate of those that are, and remain patient even if they are a little bit fussy.
 Ensure your behavior is appropriate around small children.

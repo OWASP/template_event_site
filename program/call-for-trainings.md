@@ -1,5 +1,5 @@
 ---
-title: Call for trainings
+title: Call for Trainings
 ---
 
 To be announced
